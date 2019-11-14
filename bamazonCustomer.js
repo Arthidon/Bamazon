@@ -35,7 +35,7 @@ function Item(item_id, product_name, department_name, price, stock_quantity) {
     })
   }
 
-//Function that gives buying options
+//Function that gives buying options - inquirer
   function purchaseItem() {
     inquirer
  .prompt([

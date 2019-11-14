@@ -37,5 +37,6 @@ A list of items for sale will be displayed. They should then enter the SKU of th
 
 The user will then be given a total purchase price and prompted if they would like to purchase something else. The user should then enter **Y** or **N**.
 
-![purchase Example](/images/Example.jpg)
+
+![Example](/images/Example.jpg)
 
